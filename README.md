@@ -81,7 +81,7 @@ Pull requests allow developers to propose changes to a repository. They facilita
 ### Challenges:
 - **Merge Conflicts**: Occur when changes from different branches conflict. Resolve manually.
 - **Accidental Commits**: Use `git reset` or `git revert` to undo.
-- **Lost Work**: Avoid by committing and pushing changes frequently.
+- **Lost Work**: Avoid committing and pushing changes frequently.
 
 ### Best Practices:
 - **Commit Often**: Make small, frequent commits.
